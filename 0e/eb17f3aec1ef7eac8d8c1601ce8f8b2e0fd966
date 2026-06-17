@@ -1,0 +1,26 @@
+tests/agent/test_memory_async_sync.py
+  s_8f5fd1905ac546::t_37cb9bcfcf5cbd 106
+agent/memory_manager.py
+  s_8f5fd1905ac546::t_37cb9bcfcf5cbd 324,326-329,331,463-466,474-490,500-513,531-532,538,540,577-578,589-590,592-593,600,608,610,614-615,624,634-638,648-655,657-659,661,663,668,673,678-681,683-692,937,942-943,946-948,950-951,953-962,965-966,969,977-982
+tests/agent/test_memory_parallel.py
+  s_8f5fd1905ac546::t_37cb9bcfcf5cbd 1-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0eeb17f3aec1ef7eac8d8c1601ce8f8b2e0fd966",
+  "prompts": {},
+  "sessions": {
+    "s_8f5fd1905ac546": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a30fbc7d9d3e59165dab062",
+        "model": "gemini-3.1-pro__dev",
+        "display_model_name": "Gemini-3.1-Pro-Preview"
+      },
+      "human_author": "tangxiaochen <tangxiaochen@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
